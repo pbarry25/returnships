@@ -37,4 +37,4 @@ And PR's/feedback encouraged! :)
 
 # Other resources in a similar vein
 
-* [Returhsip Matcher](https://pathforward.org/returnships/)
+* [Returnship Matcher (Path Forward)](https://pathforward.org/returnships/)

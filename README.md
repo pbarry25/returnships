@@ -11,9 +11,8 @@ This is simplly a curated list of companies who seek out and invest in people wh
 Each row below contains links to the following:
 
 * the company's main website
-* the company's 'careers' landing page, if they have one (usually these are geared toward 'talking up' the benefits of joining the company)
-* the current listing of open positions/jobs with the company
-* any guidance that might be helpful to find/filter the "early friendly" listings
+* the page/resource for their returnship program
+* any related notes about the program
 
 And PR's/feedback encouraged! :)
 

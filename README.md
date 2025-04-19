@@ -25,6 +25,7 @@ And PR's/feedback encouraged! :)
 | [Accenture](https://accenture.com) | [Link](https://www.accenture.com/au-en/careers/local/career-reboot), [Link](https://www.accenture.com/in-en/careers/local/career-reboot-program) | |
 | [Audible](https://audible.com) | [Link](https://www.audiblecareers.com/returnship-program) | |
 | [Boeing](https://boeing.com) | [Link](https://jobs.boeing.com/return-flight) | |
+| [Cummings](https://www.cummins.com/) | [Link](https://www.cummins.com/careers/paths#repower) | |
 | [EY](https://www.ey.com) | [Link](https://www.ey.com/en_us/careers/ey-reconnect) | |
 | [General Motors](https://gm.com) | [Link](https://search-careers.gm.com/en/teams/career-re-entry/) | |
 | [Goldman Sachs](https://www.goldmansachs.com) | [Link](https://www.goldmansachs.com/careers/programs-for-professionals/returnship) | |

@@ -23,8 +23,11 @@ And PR's/feedback encouraged! :)
 | Company | Returnship page(s)/resource(s) | Notes (optional) |
 |---|---|---|
 | [Accenture](https://accenture.com) | [Link](https://www.accenture.com/au-en/careers/local/career-reboot), [Link](https://www.accenture.com/in-en/careers/local/career-reboot-program) | |
+| [ADM](https://www.adm.com) | [Link]((https://www.adm.com/en-us/culture-and-careers/join-team-adm/returnship-program/) | |
 | [Audible](https://audible.com) | [Link](https://www.audiblecareers.com/returnship-program) | |
 | [Boeing](https://boeing.com) | [Link](https://jobs.boeing.com/return-flight) | |
+| [Cadence](https://www.cadence.com) | [Link](https://community.cadence.com/cadence_blogs_8/b/life-at-cadence/posts/building-confidence-through-the-cadence-returnship-program) | |
+| [CDK Global](https://www.cdkglobal.com/) | [Link](https://careers.cdkglobal.com/returnship/) | |
 | [Cummings](https://www.cummins.com/) | [Link](https://www.cummins.com/careers/paths#repower) | |
 | [EY](https://www.ey.com) | [Link](https://www.ey.com/en_us/careers/ey-reconnect) | |
 | [General Motors](https://gm.com) | [Link](https://search-careers.gm.com/en/teams/career-re-entry/) | |

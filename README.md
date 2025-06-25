@@ -39,8 +39,10 @@ And PR's/feedback encouraged! :)
 | [NBCUniversal](https://www.nbcuniversal.com) | [Link](https://www.nbcunicareers.com/programs/operations-technology/act-two-returnship) | |
 | [NetApp](https://netapp.com) | [Link](https://careers.netapp.com/relaunch) | |
 | [Oracle](https://oracle.com) | [Link](https://www.oracle.com/careers/relaunch/) | |
+| [Raymond James](https://www.raymondjames.com) | [Link](https://www.raymondjames.com/careers/reinvest-program) | |
 | [SAP](https://sap.com) | [Link](https://jobs.sap.com/go/SAP-Returnship-Program/5365101/) | |
 | [Stanley Black &amp; Decker](https://www.stanleyblackanddecker.com) | [Link](https://www.stanleyblackanddecker.com/careers/returner-program) | |
+| [UBS](https://www.ubs.com) | [Link](https://www.ubs.com/global/en/careers/professional-careers/career-comeback.html) | This program is also for folks looking to pivot their career into investment/financial services |
 
 ---
 

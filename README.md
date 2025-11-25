@@ -29,10 +29,12 @@ And PR's/feedback encouraged! :)
 | [Cadence](https://www.cadence.com) | [Link](https://community.cadence.com/cadence_blogs_8/b/life-at-cadence/posts/building-confidence-through-the-cadence-returnship-program) | |
 | [CDK Global](https://www.cdkglobal.com/) | [Link](https://careers.cdkglobal.com/returnship/) | |
 | [Cummings](https://www.cummins.com/) | [Link](https://www.cummins.com/careers/paths#repower) | |
+| [Eaton](https://www.eaton.com) | [Link](https://www.eaton.com/us/en-us/company/careers/experienced-professionals/resurge.html) | |
 | [EY](https://www.ey.com) | [Link](https://www.ey.com/en_us/careers/ey-reconnect) | |
 | [General Motors](https://gm.com) | [Link](https://search-careers.gm.com/en/teams/career-re-entry/) | |
 | [Goldman Sachs](https://www.goldmansachs.com) | [Link](https://www.goldmansachs.com/careers/programs-for-professionals/returnship) | |
 | [HubSpot](https://hubspot.com) | [Link](https://www.hubspot.com/returners-program) | |
+| [IBM](https://www.ibm.com) | [Link](https://www.ibm.com/careers/blog/return-to-the-workforce-with-the-ibm-tech-re-entry-program) | |
 | [Johnson &amp; Johnson](https://www.jnj.com) | [Link](https://www.careers.jnj.com/en/hiring-programs/re-ignite/) | |
 | [JPMorgan Chase](https://www.jpmorganchase.com/) | [Link](https://careers.jpmorgan.com/US/en/students/programs/reentry-program) | |
 | [Microsoft](https://microsoft.com) | [Link](https://leap.microsoft.com/en-US/) | This program is also for folks looking to pivot their career into tech |

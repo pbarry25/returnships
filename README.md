@@ -24,6 +24,7 @@ And PR's/feedback encouraged! :)
 |---|---|---|
 | [Accenture](https://accenture.com) | [Link](https://www.accenture.com/au-en/careers/local/career-reboot), [Link](https://www.accenture.com/in-en/careers/local/career-reboot-program) | |
 | [ADM](https://www.adm.com) | [Link](https://www.adm.com/en-us/culture-and-careers/join-team-adm/returnship-program/) | |
+| [AIG](https://www.aig.com) | [Link](https://www.aig.com/home/careers/experienced-professionals#cr) | |
 | [Audible](https://audible.com) | [Link](https://www.audiblecareers.com/returnship-program) | |
 | [Boeing](https://boeing.com) | [Link](https://jobs.boeing.com/return-flight) | |
 | [Cadence](https://www.cadence.com) | [Link](https://community.cadence.com/cadence_blogs_8/b/life-at-cadence/posts/building-confidence-through-the-cadence-returnship-program) | |
@@ -38,6 +39,7 @@ And PR's/feedback encouraged! :)
 | [Johnson &amp; Johnson](https://www.jnj.com) | [Link](https://www.careers.jnj.com/en/hiring-programs/re-ignite/) | |
 | [JPMorgan Chase](https://www.jpmorganchase.com/) | [Link](https://careers.jpmorgan.com/US/en/students/programs/reentry-program) | |
 | [Microsoft](https://microsoft.com) | [Link](https://leap.microsoft.com/en-US/) | This program is also for folks looking to pivot their career into tech |
+| [Morgan Stanley](https://www.morganstanley.com/) | [Link](https://www.morganstanley.com/people-opportunities/return-to-work) | |
 | [NBCUniversal](https://www.nbcuniversal.com) | [Link](https://www.nbcunicareers.com/programs/operations-technology/act-two-returnship) | |
 | [NetApp](https://netapp.com) | [Link](https://careers.netapp.com/relaunch) | |
 | [Oracle](https://oracle.com) | [Link](https://www.oracle.com/careers/relaunch/) | |

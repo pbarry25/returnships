@@ -26,6 +26,7 @@ And PR's/feedback encouraged! :)
 | [ADM](https://www.adm.com) | [Link](https://www.adm.com/en-us/culture-and-careers/join-team-adm/returnship-program/) | |
 | [AIG](https://www.aig.com) | [Link](https://www.aig.com/home/careers/experienced-professionals#cr) | |
 | [Audible](https://audible.com) | [Link](https://www.audiblecareers.com/returnship-program) | |
+| [BlackRock](https://www.blackrock.com) | [Link](https://careers.blackrock.com/career-returnship-programs) | |
 | [Boeing](https://boeing.com) | [Link](https://jobs.boeing.com/return-flight) | |
 | [Cadence](https://www.cadence.com) | [Link](https://community.cadence.com/cadence_blogs_8/b/life-at-cadence/posts/building-confidence-through-the-cadence-returnship-program) | |
 | [CDK Global](https://www.cdkglobal.com/) | [Link](https://careers.cdkglobal.com/returnship/) | |
@@ -49,6 +50,7 @@ And PR's/feedback encouraged! :)
 | [Raymond James](https://www.raymondjames.com) | [Link](https://www.raymondjames.com/careers/reinvest-program) | |
 | [SAP](https://sap.com) | [Link](https://jobs.sap.com/go/SAP-Returnship-Program/5365101/) | |
 | [Stanley Black &amp; Decker](https://www.stanleyblackanddecker.com) | [Link](https://www.stanleyblackanddecker.com/careers/returner-program) | |
+| [Travis Credit Union](https://www.traviscu.org/) | [Link](https://www.traviscu.org/careers/returnship) | |
 | [UBS](https://www.ubs.com) | [Link](https://www.ubs.com/global/en/careers/professional-careers/career-comeback.html) | This program is also for folks looking to pivot their career into investment/financial services |
 
 ---
